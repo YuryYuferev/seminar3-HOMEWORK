@@ -1,0 +1,5 @@
+D:\Users\ASUS\Desktop\seminar3 HOMEWORK\obj\Debug\net6.0\seminar3 HOMEWORK.csproj.AssemblyReference.cache
+D:\Users\ASUS\Desktop\seminar3 HOMEWORK\obj\Debug\net6.0\seminar3 HOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ASUS\Desktop\seminar3 HOMEWORK\obj\Debug\net6.0\seminar3 HOMEWORK.AssemblyInfoInputs.cache
+D:\Users\ASUS\Desktop\seminar3 HOMEWORK\obj\Debug\net6.0\seminar3 HOMEWORK.AssemblyInfo.cs
+D:\Users\ASUS\Desktop\seminar3 HOMEWORK\obj\Debug\net6.0\seminar3 HOMEWORK.csproj.CoreCompileInputs.cache
